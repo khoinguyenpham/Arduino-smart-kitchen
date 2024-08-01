@@ -49,4 +49,4 @@ A Piezo is used to produce sound alerts when necessary, such as during gas leak 
 
 ## Simulation and Demo
 
-https://www.tinkercad.com/things/jCJw7zTUw9T-funky-wolt-hillar/editel?tenant=circuits
+(https://www.tinkercad.com/things/jCJw7zTUw9T-smart-kitchen-for-my-house/editel)
