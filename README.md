@@ -17,3 +17,7 @@
 9. 1 Micro Servo
 10. 1 Ultrasonic Distance Sensor
 11. 1 Resistor and 2 Slideswitch
+
+## Simulation and Demo
+
+https://www.tinkercad.com/things/jCJw7zTUw9T-funky-wolt-hillar/editel?tenant=circuits
