@@ -1,4 +1,4 @@
-# Arduino smart kitchen
+# Arduino smart kitchen - IoT project
 
 ## Model
 
