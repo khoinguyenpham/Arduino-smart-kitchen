@@ -6,7 +6,7 @@ The IoT Smart Kitchen project aims to enhance the functionality and safety of a 
 
 ## Model
 
-![image](https://github.com/user-attachments/assets/b603974e-9378-45b3-8999-891846844ad6)
+![image](https://github.com/user-attachments/assets/ae2cf0e8-50fc-4b85-8a0d-dbd92ec650e7)
 
 ## Activities
 
