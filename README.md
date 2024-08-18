@@ -12,13 +12,13 @@ The IoT Smart Kitchen project aims to enhance the functionality and safety of a 
 
 ### 1. Cabinet Door Automation:
 
-Uses the Ultrasonic Distance Sensor to measure the distance to the cabinet door.
+Using the Ultrasonic Distance Sensor to measure the distance to the cabinet door.
 If the distance is less than 15 cm, the servo motor will open the door.
 The door remains open for 5 seconds before closing automatically.
 Motion Detection Lighting:
 
-### 2. The PIR Sensor detects motion in the kitchen.
-When motion is detected, two light bulbs connected via relays are turned on.
+### 2. Detects motion in the kitchen.
+Using the PIR Sensor, when motion is detected, two light bulbs connected via relays are turned on.
 If no motion is detected, the lights are turned off.
 Temperature Monitoring and Alert:
 
